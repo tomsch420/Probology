@@ -1,0 +1,3 @@
+[submodule "ease_lexical_resources"]
+	path = ease_lexical_resources
+	url = https://github.com/ease-crc/ease_lexical_resources.git

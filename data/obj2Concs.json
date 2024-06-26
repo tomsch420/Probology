@@ -1,0 +1,524 @@
+{
+    "action figure": [],
+    "adjustable wrench": [
+        "adjustable_wrench.n.wn.artifact"
+    ],
+    "android figure": [],
+    "anti slip tape": [],
+    "antidepressant": [
+        "antidepressant.n.wn.artifact"
+    ],
+    "apple": [
+        "apple.n.wn.food"
+    ],
+    "backpack": [
+        "backpack.n.wn.artifact"
+    ],
+    "balancing cactus": [],
+    "banana": [
+        "banana.n.wn.food"
+    ],
+    "baseball": [
+        "baseball.n.wn.artifact"
+    ],
+    "bath sheet": [],
+    "battery": [
+        "battery.n.wn.artifact..electrical_device"
+    ],
+    "beard color gel": [],
+    "beauty pack": [],
+    "bleach cleanser": [],
+    "blender jar": [],
+    "board game": [],
+    "book": [
+        "book.n.wn.artifact..book"
+    ],
+    "bookend": [
+        "bookend.n.wn.artifact"
+    ],
+    "bowl": [
+        "bowl.n.wn.artifact..dish"
+    ],
+    "box": [
+        "box.n.wn.artifact..container"
+    ],
+    "bundt pan": [],
+    "butter dish": [
+        "butter_dish.n.wn.artifact"
+    ],
+    "cake mix": [
+        "cake_mix.n.wn.food"
+    ],
+    "cake pan": [],
+    "camera": [
+        "camera.n.wn.artifact"
+    ],
+    "can opener": [
+        "can_opener.n.wn.artifact"
+    ],
+    "candle holder": [
+        "candlestick.n.wn.artifact"
+    ],
+    "candy": [
+        "candy.n.wn.food"
+    ],
+    "candy bar": [
+        "candy_bar.n.wn.food"
+    ],
+    "canister": [
+        "canister.n.wn.artifact"
+    ],
+    "card game": [],
+    "carrying case": [],
+    "casserole dish": [
+        "casserole.n.wn.artifact"
+    ],
+    "cereal": [
+        "cereal.n.wn.food"
+    ],
+    "chain": [
+        "chain.n.wn.artifact..necklace"
+    ],
+    "chocolate": [
+        "chocolate.n.wn.food"
+    ],
+    "chocolate box": [],
+    "chocolate milk pods": [],
+    "chocolate powder": [
+        "cocoa.n.wn.food..powder"
+    ],
+    "chopping board": [
+        "chopping_board.n.wn.artifact"
+    ],
+    "clamp": [
+        "clamp.n.wn.artifact"
+    ],
+    "clay": [
+    ],
+    "clock": [
+        "clock.n.wn.artifact"
+    ],
+    "cloth": [
+        "rag.n.wn.artifact"
+    ],
+    "coffee beans": [],
+    "coffee pods": [],
+    "coffeemaker": [
+        "coffee_maker.n.wn.artifact"
+    ],
+    "colored wood blocks": [],
+    "condiment": [
+        "condiment.n.wn.food"
+    ],
+    "cracker box": [],
+    "crayon": [
+        "crayon.n.wn.artifact"
+    ],
+    "cube storage box": [],
+    "cup": [
+        "cup.n.wn.artifact..container"
+    ],
+    "cushion": [
+        "cushion.n.wn.artifact..padding"
+    ],
+    "desk caddy": [],
+    "diaper pack": [],
+    "dietary supplement": [],
+    "dish drainer": [],
+    "dishtowel": [
+        "dish_towel.n.wn.artifact"
+    ],
+    "dispensing closure": [],
+    "dog bowl": [],
+    "dog chew toy": [],
+    "dollhouse toy": [],
+    "donut": [
+        "doughnut.n.wn.food"
+    ],
+    "drink coaster": [
+        "mat.n.wn.artifact..coaster"
+    ],
+    "duct tape": [
+        "duct_tape.n.wn.artifact"
+    ],
+    "dumbbell": [
+        "dumbbell.n.wn.artifact"
+    ],
+    "dumbbell rack": [],
+    "dustpan and brush": [],
+    "dutch oven": [
+        "dutch_oven.n.wn.artifact..pot"
+    ],
+    "easter basket": [],
+    "electric heater": [
+        "electric_heater.n.wn.artifact"
+    ],
+    "electric toothbrush": [
+        "electric_toothbrush.n.wn.artifact"
+    ],
+    "electronic adapter": [],
+    "electronic cable": [
+        "electrical_cable.n.wn.artifact"
+    ],
+    "face moisturizer": [],
+    "file sorter": [],
+    "fingerpaint": [
+        "finger_paint.n.wn.artifact"
+    ],
+    "fitness tracker wristband": [],
+    "flashlight": [
+        "flashlight.n.wn.artifact"
+    ],
+    "flat screwdriver": [
+        "flat_tip_screwdriver.n.wn.artifact"
+    ],
+    "foam brick": [],
+    "folder": [
+        "folder.n.wn.artifact"
+    ],
+    "fondant": [
+        "fondant.n.wn.food"
+    ],
+    "fork": [
+        "fork.n.wn.artifact..cutlery"
+    ],
+    "fruit snack": [],
+    "gelatin box": [],
+    "gloves": [],
+    "golf ball": [
+        "golf_ball.n.wn.artifact"
+    ],
+    "graphics card": [],
+    "hair color": [],
+    "hair conditioner": [],
+    "hair dryer": [
+        "hand_blower.n.wn.artifact"
+    ],
+    "hair straightener": [],
+    "hammer": [
+        "hammer.n.wn.artifact..hand_tool"
+    ],
+    "hand bell": [],
+    "handbag": [
+        "bag.n.wn.artifact..purse"
+    ],
+    "hard drive": [
+        "disk_drive.n.wn.computer_science"
+    ],
+    "hard drive case": [],
+    "hat": [
+        "hat.n.wn.artifact"
+    ],
+    "headphones": [],
+    "heavy duty gloves": [],
+    "heavy master chef can": [],
+    "helmet": [
+        "helmet.n.wn.artifact..headdress"
+    ],
+    "herring fillets": [],
+    "honey dipper": [],
+    "incontinence pads": [],
+    "ink cartridge": [
+        "ink_cartridge.n.wn.artifact"
+    ],
+    "instant camera": [],
+    "invitation card": [],
+    "jar": [
+        "jar.n.wn.artifact"
+    ],
+    "jenga": [],
+    "jewelry box": [],
+    "keyboard": [
+        "keyboard.n.wn.artifact..device"
+    ],
+    "knife": [
+        "knife.n.wn.artifact..tool"
+    ],
+    "knife block": [],
+    "labeling tape": [],
+    "lamp": [
+        "lamp.n.wn.artifact..furniture"
+    ],
+    "lantern": [
+        "lantern.n.wn.artifact"
+    ],
+    "laptop": [
+        "laptop.n.wn.artifact"
+    ],
+    "laptop cover": [],
+    "laptop stand": [],
+    "large marker": [],
+    "laundry box": [],
+    "laxative": [
+        "laxative.n.wn.artifact"
+    ],
+    "lego duplo": [],
+    "lemon": [
+        "lemon.n.wn.food"
+    ],
+    "letter holder": [],
+    "light bulb": [
+        "light_bulb.n.wn.artifact"
+    ],
+    "lime squeezer": [
+        "reamer.n.wn.artifact..squeezer"
+    ],
+    "lipstick": [
+        "lipstick.n.wn.artifact"
+    ],
+    "lunch bag": [],
+    "lunch box": [],
+    "magnifying glass": [
+        "hand_glass.n.wn.artifact..light_microscope"
+    ],
+    "mascara": [
+        "mascara.n.wn.artifact"
+    ],
+    "master chef can": [],
+    "measuring tape": [
+        "tape.n.wn.artifact..measuring_instrument"
+    ],
+    "medicine": [
+        "medicine.n.wn.medicine..drug"
+    ],
+    "milk frother": [],
+    "mini soccer ball": [],
+    "motherboard": [],
+    "mouse": [
+        "mouse.n.wn.artifact"
+    ],
+    "mouse pad": [],
+    "movie dvd": [],
+    "mug": [
+        "mug.n.wn.artifact"
+    ],
+    "multiport hub": [],
+    "mustard bottle": [],
+    "neck rest": [],
+    "nine hole peg test": [],
+    "nintendo switch": [],
+    "orange": [
+        "orange.n.wn.food"
+    ],
+    "padlock": [
+        "padlock.n.wn.artifact"
+    ],
+    "paint bottle set": [],
+    "paint maker": [],
+    "pan": [
+        "pan.n.wn.artifact..cooking_utensil"
+    ],
+    "paper bag": [
+        "sack.n.wn.artifact..bag"
+    ],
+    "parchment sheet": [],
+    "peach": [
+        "peach.n.wn.food"
+    ],
+    "pear": [
+        "pear.n.wn.food"
+    ],
+    "peg and hammer toy": [],
+    "pencil case": [
+        "pencil_box.n.wn.artifact"
+    ],
+    "peppermint": [
+        "peppermint.n.wn.food"
+    ],
+    "pepsi can pack": [],
+    "pet food supplement": [],
+    "phillips screwdriver": [
+        "phillips_screwdriver.n.wn.artifact"
+    ],
+    "phone armband case": [],
+    "phone stand": [],
+    "picture frame": [
+        "picture_frame.n.wn.artifact"
+    ],
+    "pillow": [
+        "pillow.n.wn.artifact"
+    ],
+    "pitcher base": [],
+    "plant": [
+        "plant.n.wn.artifact"
+    ],
+    "plant container": [],
+    "plant saucer": [],
+    "plate": [
+        "plate.n.wn.artifact..flatware"
+    ],
+    "plum": [
+        "plum.n.wn.food"
+    ],
+    "portable speaker": [],
+    "potted meat can": [],
+    "power drill": [
+        "power_drill.n.wn.artifact"
+    ],
+    "pressure cooker": [
+        "pressure_cooker.n.wn.artifact"
+    ],
+    "pudding box": [],
+    "puzzle game": [],
+    "racquetball": [
+        "racquetball.n.wn.artifact"
+    ],
+    "ramekin": [
+        "ramekin.n.wn.artifact"
+    ],
+    "remote control": [
+        "remote_control.n.wn.artifact"
+    ],
+    "router": [
+        "router.n.wn.computer_science"
+    ],
+    "rubiks cube": [],
+    "salt shaker": [
+        "saltshaker.n.wn.artifact"
+    ],
+    "sanitary pads": [],
+    "saucer": [
+        "saucer.n.wn.artifact"
+    ],
+    "saute pan": [],
+    "scissors": [
+        "scissors.n.wn.artifact"
+    ],
+    "set-top box": [],
+    "shoe": [
+        "shoe.n.wn.artifact"
+    ],
+    "shoe box": [
+        "shoebox.n.wn.artifact..box"
+    ],
+    "shredder": [
+        "shredder.n.wn.artifact"
+    ],
+    "sidewalk chalk": [],
+    "skillet": [
+        "frying_pan.n.wn.artifact"
+    ],
+    "skillet lid": [],
+    "skin care product": [],
+    "skin moisturizer": [],
+    "snack cake": [],
+    "snack dispenser": [],
+    "soap dish": [
+        "soap_dish.n.wn.artifact"
+    ],
+    "soap dispenser": [
+        "soap_dispenser.n.wn.artifact"
+    ],
+    "softball": [
+        "softball.n.wn.artifact"
+    ],
+    "software cd": [],
+    "sorting toy": [],
+    "sparkling water": [
+        "soda_water.n.wn.food"
+    ],
+    "spatula": [
+        "spatula.n.wn.artifact..turner"
+    ],
+    "sponge": [
+        "cleaning_pad.n.wn.artifact"
+    ],
+    "sponge dish": [],
+    "spoon": [
+        "spoon.n.wn.artifact..cutlery"
+    ],
+    "spoon rest": [],
+    "stacking cups": [],
+    "stand mixer": [],
+    "storage bin": [
+        "bin.n.wn.artifact"
+    ],
+    "strawberry": [
+        "strawberry.n.wn.food"
+    ],
+    "string lights": [],
+    "stuffed toy": [],
+    "sugar box": [],
+    "sugar sprinkles": [],
+    "surface saver ring": [],
+    "sushi mat": [],
+    "table lamp": [
+        "table_lamp.n.wn.artifact"
+    ],
+    "tablet": [
+    ],
+    "tablet holder": [],
+    "tablet stand": [],
+    "tampons": [],
+    "tea can pack": [],
+    "tea pods": [],
+    "teapot": [
+        "teapot.n.wn.artifact"
+    ],
+    "tennis ball": [
+        "tennis_ball.n.wn.artifact"
+    ],
+    "thermal laminator": [],
+    "toaster": [
+        "toaster.n.wn.artifact"
+    ],
+    "tomato soup can": [],
+    "toothbrush holder": [],
+    "toothbrush pack": [],
+    "towel": [
+        "towel.n.wn.artifact"
+    ],
+    "toy airplane": [],
+    "toy animal": [],
+    "toy basketball": [],
+    "toy bowling set": [],
+    "toy construction set": [],
+    "toy fishing": [],
+    "toy food": [],
+    "toy furniture set": [],
+    "toy instrument": [],
+    "toy kitchen set": [],
+    "toy tool kit": [],
+    "toy vehicle": [],
+    "tray": [
+        "tray.n.wn.artifact"
+    ],
+    "tumbler": [
+        "tumbler.n.wn.artifact..glass"
+    ],
+    "umbrella": [
+        "umbrella.n.wn.artifact"
+    ],
+    "usb drive": [],
+    "utensil holder": [],
+    "vase": [
+        "vase.n.wn.artifact"
+    ],
+    "video game": [],
+    "vinyl tape": [],
+    "virtual reality viewer": [],
+    "washcloth": [
+        "washcloth.n.wn.artifact"
+    ],
+    "waste basket": [
+        "wastepaper_basket.n.wn.artifact"
+    ],
+    "water bottle": [
+        "water_bottle.n.wn.artifact"
+    ],
+    "weight loss guide": [
+        "weight_loss_guide.n.wn.artifact"
+    ],
+    "whale whistle": [
+        "whale_whistle.n.wn.artifact"
+    ],
+    "wipe warmer": [
+        "wipe_warmer.n.wn.artifact"
+    ],
+    "wireless accessory": [
+        "wireless_accessory.n.wn.artifact"
+    ],
+    "xylitol sweetener": [
+        "xylitol_sweetener.n.wn.substance"
+    ]
+}

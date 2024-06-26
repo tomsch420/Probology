@@ -1,0 +1,9 @@
+probabilistic_model
+random_events
+numpy==1.26.3
+pandas
+plotly
+matplotlib
+pyjpt
+
+-r ease_lexical_resources/src/requirements.txt
